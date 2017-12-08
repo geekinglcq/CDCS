@@ -10,12 +10,11 @@ def addSolutionInfo(id):
         print("ID exsited, please try again")
         return 
     algo = input("Enter algorithm: ")
-    print("Enter code")
     code = input("Enter code: ")
     s = {"algorithm": algo, "code":code}
     solutions[id] = s
     with open("solution2.json", 'w') as f:
-        json.dump(solutions, f)
+        json.dump(solutions, f, indent=4)
 
 def addCompe():
     with open('competitions2.json', 'r') as f:

@@ -1,0 +1,207 @@
+[
+    {
+        "name": "2017 \u5f00\u653e\u5b66\u672f\u7cbe\u51c6\u753b\u50cf\u5927\u8d5b",
+        "link": "https://biendata.com/competition/scholar/winners/",
+        "type": "\u753b\u50cf/\u5206\u7c7b/\u9884\u6d4b",
+        "solutions": [
+            {
+                "rank": 1,
+                "id": 1
+            },
+            {
+                "rank": 2,
+                "id": 2
+            },
+            {
+                "rank": 3,
+                "id": 3
+            }
+        ],
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/img/OPEDAC.jpg",
+        "hosts": "\u5fae\u8f6f/\u6e05\u534e\u5927\u5b66/\u4e2d\u56fd\u5de5\u7a0b\u9662",
+        "ddl": 20171009
+    },
+    {
+        "name": "2017 \u6469\u62dc\u676f\u7b97\u6cd5\u6311\u6218\u8d5b",
+        "link": "https://biendata.com/competition/mobike/",
+        "type": "\u9884\u6d4b",
+        "solutions": [
+            {
+                "rank": 1,
+                "id": 4
+            },
+            {
+                "rank": 2,
+                "id": 5
+            },
+            {
+                "rank": 3,
+                "id": 6
+            }
+        ],
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/img/mobike.jpg",
+        "hosts": "\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u5b66\u4f1a/\u6469\u62dc",
+        "ddl": 20170925
+    },
+    {
+        "name": "SMP CUP CSDN\u7528\u6237\u753b\u50cf 2017",
+        "link": "https://biendata.com/competition/smpcup2017/",
+        "type": "\u753b\u50cf",
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2017.png?raw=true",
+        "hosts": "SMP/CSDN",
+        "ddl": "20170811",
+        "solutions": [
+            {
+                "rank": "6",
+                "id": 8
+            }
+        ]
+    },
+    {
+        "name": "2017 \u77e5\u4e4e\u770b\u5c71\u676f\u673a\u5668\u5b66\u4e60\u6311\u6218\u8d5b",
+        "link": "https://biendata.com/competition/zhihu/",
+        "type": "\u5206\u7c7b/\u6807\u7b7e",
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/zhihu17.jpg?raw=true",
+        "hosts": "\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u534f\u4f1a/\u77e5\u4e4e",
+        "ddl": "20170815",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 9
+            },
+            {
+                "rank": "2",
+                "id": 10
+            },
+            {
+                "rank": "3",
+                "id": 11
+            }
+        ]
+    },
+    {
+        "name": "2016 Byte Cup\u56fd\u9645\u673a\u5668\u5b66\u4e60\u7ade\u8d5b",
+        "link": "https://biendata.com/competition/bytecup2016/winners/",
+        "type": "\u9884\u6d4b",
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/byte16.png?raw=true",
+        "hosts": "\u4eca\u65e5\u5934\u6761/\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u534f\u4f1a",
+        "ddl": "20161120",
+        "solutions": [
+            {
+                "rank": "2",
+                "id": 12
+            }
+        ]
+    },
+    {
+        "name": "SMP CUP 2016",
+        "link": "https://biendata.com/competition/smpcup2016/",
+        "type": "\u753b\u50cf/\u5206\u7c7b",
+        "platform": "biendata",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2016.png?raw=true",
+        "hosts": "SMP/\u65b0\u6d6a\u5fae\u535a",
+        "ddl": "20160921",
+        "solutions": [
+            {
+                "rank": "2",
+                "id": 13
+            },
+            {
+                "rank": "5",
+                "id": 14
+            }
+        ]
+    },
+    {
+        "name": "2016 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b\u2014\u2014O2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.333.6.XHo01D&raceId=231587",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/tianchi.png?raw=true",
+        "hosts": "\u8682\u8681\u91d1\u670d/CCF",
+        "ddl": "20161216",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 15
+            }
+        ]
+    },
+    {
+        "name": "\u963f\u91cc\u97f3\u4e50\u6d41\u884c\u8d8b\u52bf\u9884\u6d4b\u5927\u8d5b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231531",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/ali_music.jpg?raw=true",
+        "hosts": "\u963f\u91cc\u97f3\u4e50",
+        "ddl": "20160715",
+        "solutions": [
+            {
+                "rank": "6",
+                "id": 16
+            }
+        ]
+    },
+    {
+        "name": "\u83dc\u9e1f-\u9700\u6c42\u9884\u6d4b\u4e0e\u5206\u4ed3\u89c4\u5212",
+        "link": "https://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.sUOLE8&raceId=231530&_lang=zh_CN",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/cainiao.jpg?raw=true",
+        "hosts": "\u83dc\u9e1f\u7f51\u7edc",
+        "ddl": "20160615",
+        "solutions": [
+            {
+                "rank": "6",
+                "id": 17
+            },
+            {
+                "rank": "10",
+                "id": 18
+            }
+        ]
+    },
+    {
+        "name": "\u5e7f\u4e1c\u653f\u52a1\u6570\u636e\u521b\u65b0\u5927\u8d5b\u2014\u667a\u80fd\u7b97\u6cd5\u8d5b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231615&_lang=en_US",
+        "type": "\u5206\u7c7b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guangdong.jpg?raw=true",
+        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
+        "ddl": "20171121",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 19
+            },
+            {
+                "rank": "2",
+                "id": 20
+            },
+            {
+                "rank": "3",
+                "id": 21
+            }
+        ]
+    },
+    {
+        "name": "\u4f59\u9707\u6355\u6349AI\u5927\u8d5b",
+        "link": "https://tianchi.aliyun.com/competition/information.htm?raceId=231606",
+        "type": "\u9884\u6d4b/\u5206\u7c7b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/earthquake.jpg?raw=true",
+        "hosts": "\u4e2d\u56fd\u5730\u9707\u5c40/\u963f\u91cc\u4e91",
+        "ddl": "20170927",
+        "solutions": [
+            {
+                "rank": "2",
+                "id": 22
+            }
+        ]
+    }
+]

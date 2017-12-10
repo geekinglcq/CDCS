@@ -47,11 +47,11 @@ def renderToMK():
     solutions = json.load(codecs.open('solutions.json'))
     for line in data:
         f.write(line)
-    f.write("|名称|类型|截止日期|解决方案|平台|主办方|  \n")
-    f.write("|--|--|--|--|--|--|  \n")
+    f.write("||名称|类型|截止日期|解决方案|平台|主办方|  \n")
+    f.write("|--|--|--|--|--|--|--|  \n")
     for com in coms:
-        f.write("|[%s](%s)|%s|%s|"%( \
-             com['name'], com['link'], com['type'], com['ddl']))
+        f.write("|![](http://p0qqn3m6c.bkt.clouddn.com/%s?imageView2/2/w/100/h/100/q/75)|[%s](%s)|%s|%s|"%( \
+             com['pic'][51:-9], com['name'], com['link'], com['type'], com['ddl']))
         soStrings = []
         print(com['name'])
         for solution in com['solutions']:

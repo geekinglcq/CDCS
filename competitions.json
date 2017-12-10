@@ -18,7 +18,7 @@
             }
         ],
         "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/img/OPEDAC.jpg",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/OPEDAC.jpg?raw=true",
         "hosts": "\u5fae\u8f6f/\u6e05\u534e\u5927\u5b66/\u4e2d\u56fd\u5de5\u7a0b\u9662",
         "ddl": 20171009
     },
@@ -41,7 +41,7 @@
             }
         ],
         "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/img/mobike.jpg",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/mobike.jpg?raw=true",
         "hosts": "\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u5b66\u4f1a/\u6469\u62dc",
         "ddl": 20170925
     },

@@ -162,5 +162,17 @@
     "42": {
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231597&postsId=2448",
         "code": "null"
+    },
+    "43": {
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.47c91418CdEkE1&raceId=231591&postsId=2409",
+        "code": "https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323"
+    },
+    "44": {
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231591&postsId=2454",
+        "code": "null"
+    },
+    "45": {
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231591&postsId=2453",
+        "code": "null"
     }
 }

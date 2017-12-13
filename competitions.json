@@ -371,5 +371,28 @@
                 "id": 42
             }
         ]
+    },
+    {
+        "name": "IJCAI-17 \u53e3\u7891\u5546\u5bb6\u5ba2\u6d41\u91cf\u9884\u6d4b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/IJCAI17.jpg?raw=true",
+        "hosts": "\u8682\u8681\u91d1\u670d",
+        "ddl": "20170314",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 43
+            },
+            {
+                "rank": "2",
+                "id": 44
+            },
+            {
+                "rank": "3",
+                "id": 45
+            }
+        ]
     }
 ]

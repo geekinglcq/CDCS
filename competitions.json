@@ -394,5 +394,24 @@
                 "id": 45
             }
         ]
+    },
+    {
+        "name": " \u751f\u6d3b\u5927\u5b9e\u60e0\uff1aO2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b",
+        "link": "https://tianchi.aliyun.com/competition/rankingList.htm?raceId=231587",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/O2Ocoupon.jpg?raw=true",
+        "hosts": "\u8682\u8681\u91d1\u670d",
+        "ddl": "20161216",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 46
+            },
+            {
+                "rank": "16",
+                "id": 47
+            }
+        ]
     }
 ]

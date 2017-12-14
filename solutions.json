@@ -174,5 +174,13 @@
     "45": {
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231591&postsId=2453",
         "code": "null"
+    },
+    "46": {
+        "algorithm": "https://github.com/wepe/O2O-Coupon-Usage-Forecast",
+        "code": "https://github.com/wepe/O2O-Coupon-Usage-Forecast"
+    },
+    "47": {
+        "algorithm": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage",
+        "code": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage"
     }
 }

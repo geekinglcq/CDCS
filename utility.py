@@ -4,6 +4,9 @@ import codecs
 from pprint import pprint 
 
 def addSolutionInfo(id):
+    """
+    Add one solution of a competition
+    """
     with codecs.open('solutions.json', 'r', encoding='utf-8') as f:
         solutions = json.load(f)
     if str(id) in solutions.keys():
@@ -17,6 +20,9 @@ def addSolutionInfo(id):
         json.dump(solutions, f, indent=4)
 
 def addCompe():
+    """
+    Add a competition
+    """
     with codecs.open('competitions.json', 'r', encoding='utf-8') as f:
         coms = json.load(f)
     with codecs.open('solutions.json', 'r', encoding='utf-8') as f:

@@ -182,5 +182,9 @@
     "47": {
         "algorithm": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage",
         "code": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage"
+    },
+    "48": {
+        "algorithm": "https://github.com/liangyaorong/2016TianChi_AirportWifiPredict",
+        "code": "https://github.com/liangyaorong/2016TianChi_AirportWifiPredict"
     }
 }

@@ -413,5 +413,20 @@
                 "id": 47
             }
         ]
+    },
+    {
+        "name": "\u3010\u5e7f\u4e1c\u5927\u8d5b\u3011\u673a\u573a\u5ba2\u6d41\u91cf\u7684\u65f6\u7a7a\u5206\u5e03\u9884\u6d4b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231588",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guangdong.jpg?raw=true",
+        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
+        "ddl": "20161128",
+        "solutions": [
+            {
+                "rank": "441",
+                "id": 48
+            }
+        ]
     }
 ]

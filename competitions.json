@@ -428,5 +428,20 @@
                 "id": 48
             }
         ]
+    },
+    {
+        "name": "\u65b0\u6d6a\u5fae\u535a\u4e92\u52a8\u9884\u6d4b\u5927\u8d5b",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=5",
+        "type": "\u9884\u6d4b",
+        "platform": "tianchi",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/weibo.jpg?raw=true",
+        "hosts": "\u65b0\u6d6a\u5fae\u535a",
+        "ddl": "20151105",
+        "solutions": [
+            {
+                "rank": "?",
+                "id": 49
+            }
+        ]
     }
 ]

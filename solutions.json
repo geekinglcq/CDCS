@@ -186,5 +186,9 @@
     "48": {
         "algorithm": "https://github.com/liangyaorong/2016TianChi_AirportWifiPredict",
         "code": "https://github.com/liangyaorong/2016TianChi_AirportWifiPredict"
+    },
+    "49": {
+        "algorithm": "https://zhuanlan.zhihu.com/p/23845169",
+        "code": "https://github.com/deeptimhe/tianchi-weibo-pred"
     }
 }

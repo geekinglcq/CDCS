@@ -1,447 +1,509 @@
 [
     {
-        "name": "2017 \u5f00\u653e\u5b66\u672f\u7cbe\u51c6\u753b\u50cf\u5927\u8d5b",
-        "link": "https://biendata.com/competition/scholar/winners/",
-        "type": "\u753b\u50cf/\u5206\u7c7b/\u9884\u6d4b",
-        "solutions": [
-            {
-                "rank": 1,
-                "id": 1
-            },
-            {
-                "rank": 2,
-                "id": 2
-            },
-            {
-                "rank": 3,
-                "id": 3
-            }
-        ],
-        "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/OPEDAC.jpg?raw=true",
         "hosts": "\u5fae\u8f6f/\u6e05\u534e\u5927\u5b66/\u4e2d\u56fd\u5de5\u7a0b\u9662",
-        "ddl": "20171009"
-    },
-    {
-        "name": "2017 \u6469\u62dc\u676f\u7b97\u6cd5\u6311\u6218\u8d5b",
-        "link": "https://biendata.com/competition/mobike/",
-        "type": "\u9884\u6d4b",
+        "link": "https://biendata.com/competition/scholar/winners/",
+        "ddl": "20171009",
+        "type": "\u753b\u50cf/\u5206\u7c7b/\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/OPEDAC.jpg?raw=true",
+        "platform": "biendata",
         "solutions": [
             {
-                "rank": 1,
-                "id": 4
+                "id": 1,
+                "rank": 1
             },
             {
-                "rank": 2,
-                "id": 5
+                "id": 2,
+                "rank": 2
             },
             {
-                "rank": 3,
-                "id": 6
+                "id": 3,
+                "rank": 3
             }
         ],
-        "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/mobike.jpg?raw=true",
+        "name": "2017 \u5f00\u653e\u5b66\u672f\u7cbe\u51c6\u753b\u50cf\u5927\u8d5b"
+    },
+    {
         "hosts": "\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u5b66\u4f1a/\u6469\u62dc",
-        "ddl": "20170925"
+        "link": "https://biendata.com/competition/mobike/",
+        "ddl": "20170925",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/mobike.jpg?raw=true",
+        "platform": "biendata",
+        "solutions": [
+            {
+                "id": 4,
+                "rank": 1
+            },
+            {
+                "id": 5,
+                "rank": 2
+            },
+            {
+                "id": 6,
+                "rank": 3
+            }
+        ],
+        "name": "2017 \u6469\u62dc\u676f\u7b97\u6cd5\u6311\u6218\u8d5b"
     },
     {
-        "name": "SMP CUP CSDN\u7528\u6237\u753b\u50cf 2017",
-        "link": "https://biendata.com/competition/smpcup2017/",
-        "type": "\u753b\u50cf",
-        "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2017.png?raw=true",
         "hosts": "SMP/CSDN",
+        "link": "https://biendata.com/competition/smpcup2017/",
         "ddl": "20170811",
+        "type": "\u753b\u50cf",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2017.png?raw=true",
+        "platform": "biendata",
         "solutions": [
             {
-                "rank": "6",
-                "id": 8
+                "id": 8,
+                "rank": "6"
             }
-        ]
+        ],
+        "name": "SMP CUP CSDN\u7528\u6237\u753b\u50cf 2017"
     },
     {
-        "name": "2017 \u77e5\u4e4e\u770b\u5c71\u676f\u673a\u5668\u5b66\u4e60\u6311\u6218\u8d5b",
-        "link": "https://biendata.com/competition/zhihu/",
-        "type": "\u5206\u7c7b/\u6807\u7b7e",
-        "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/zhihu17.jpg?raw=true",
         "hosts": "\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u534f\u4f1a/\u77e5\u4e4e",
+        "link": "https://biendata.com/competition/zhihu/",
         "ddl": "20170815",
+        "type": "\u5206\u7c7b/\u6807\u7b7e",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/zhihu17.jpg?raw=true",
+        "platform": "biendata",
         "solutions": [
             {
-                "rank": "1",
-                "id": 9
+                "id": 9,
+                "rank": "1"
             },
             {
-                "rank": "2",
-                "id": 10
+                "id": 10,
+                "rank": "2"
             },
             {
-                "rank": "3",
-                "id": 11
+                "id": 11,
+                "rank": "3"
             }
-        ]
+        ],
+        "name": "2017 \u77e5\u4e4e\u770b\u5c71\u676f\u673a\u5668\u5b66\u4e60\u6311\u6218\u8d5b"
     },
     {
-        "name": "2016 Byte Cup\u56fd\u9645\u673a\u5668\u5b66\u4e60\u7ade\u8d5b",
-        "link": "https://biendata.com/competition/bytecup2016/winners/",
-        "type": "\u9884\u6d4b",
-        "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/byte16.png?raw=true",
         "hosts": "\u4eca\u65e5\u5934\u6761/\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u534f\u4f1a",
+        "link": "https://biendata.com/competition/bytecup2016/winners/",
         "ddl": "20161120",
-        "solutions": [
-            {
-                "rank": "2",
-                "id": 12
-            }
-        ]
-    },
-    {
-        "name": "SMP CUP 2016",
-        "link": "https://biendata.com/competition/smpcup2016/",
-        "type": "\u753b\u50cf/\u5206\u7c7b",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/byte16.png?raw=true",
         "platform": "biendata",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2016.png?raw=true",
+        "solutions": [
+            {
+                "id": 12,
+                "rank": "2"
+            }
+        ],
+        "name": "2016 Byte Cup\u56fd\u9645\u673a\u5668\u5b66\u4e60\u7ade\u8d5b"
+    },
+    {
         "hosts": "SMP/\u65b0\u6d6a\u5fae\u535a",
+        "link": "https://biendata.com/competition/smpcup2016/",
         "ddl": "20160921",
+        "type": "\u753b\u50cf/\u5206\u7c7b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/SMP_CUP_2016.png?raw=true",
+        "platform": "biendata",
         "solutions": [
             {
-                "rank": "2",
-                "id": 13
+                "id": 13,
+                "rank": "2"
             },
             {
-                "rank": "5",
-                "id": 14
+                "id": 14,
+                "rank": "5"
             }
-        ]
+        ],
+        "name": "SMP CUP 2016"
     },
     {
-        "name": "2016 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b\u2014\u2014O2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.333.6.XHo01D&raceId=231587",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/tianchi.png?raw=true",
         "hosts": "\u8682\u8681\u91d1\u670d/CCF",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.333.6.XHo01D&raceId=231587",
         "ddl": "20161216",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/tianchi.png?raw=true",
+        "platform": "tianchi",
         "solutions": [
             {
-                "rank": "1",
-                "id": 15
+                "id": 15,
+                "rank": "1"
             }
-        ]
+        ],
+        "name": "2016 CCF\u5927\u6570\u636e\u4e0e\u8ba1\u7b97\u667a\u80fd\u5927\u8d5b\u2014\u2014O2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b"
     },
     {
-        "name": "\u963f\u91cc\u97f3\u4e50\u6d41\u884c\u8d8b\u52bf\u9884\u6d4b\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231531",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/ali_music.jpg?raw=true",
         "hosts": "\u963f\u91cc\u97f3\u4e50",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231531",
         "ddl": "20160715",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/ali_music.jpg?raw=true",
+        "platform": "tianchi",
         "solutions": [
             {
-                "rank": "6",
-                "id": 16
+                "id": 16,
+                "rank": "6"
             }
-        ]
+        ],
+        "name": "\u963f\u91cc\u97f3\u4e50\u6d41\u884c\u8d8b\u52bf\u9884\u6d4b\u5927\u8d5b"
     },
     {
-        "name": "\u83dc\u9e1f-\u9700\u6c42\u9884\u6d4b\u4e0e\u5206\u4ed3\u89c4\u5212",
-        "link": "https://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.sUOLE8&raceId=231530&_lang=zh_CN",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/cainiao.jpg?raw=true",
         "hosts": "\u83dc\u9e1f\u7f51\u7edc",
+        "link": "https://tianchi.aliyun.com/competition/information.htm?spm=0.0.0.0.sUOLE8&raceId=231530&_lang=zh_CN",
         "ddl": "20160615",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/cainiao.jpg?raw=true",
+        "platform": "tianchi",
         "solutions": [
             {
-                "rank": "6",
-                "id": 17
+                "id": 17,
+                "rank": "6"
             },
             {
-                "rank": "10",
-                "id": 18
+                "id": 18,
+                "rank": "10"
             }
-        ]
+        ],
+        "name": "\u83dc\u9e1f-\u9700\u6c42\u9884\u6d4b\u4e0e\u5206\u4ed3\u89c4\u5212"
     },
     {
-        "name": "\u5e7f\u4e1c\u653f\u52a1\u6570\u636e\u521b\u65b0\u5927\u8d5b\u2014\u667a\u80fd\u7b97\u6cd5\u8d5b",
+        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
         "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231615&_lang=en_US",
-        "type": "\u5206\u7c7b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guangdong.jpg?raw=true",
-        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
         "ddl": "20171121",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 19
-            },
-            {
-                "rank": "2",
-                "id": 20
-            },
-            {
-                "rank": "3",
-                "id": 21
-            }
-        ]
-    },
-    {
-        "name": "\u4f59\u9707\u6355\u6349AI\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/information.htm?raceId=231606",
-        "type": "\u9884\u6d4b/\u5206\u7c7b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/earthquake.jpg?raw=true",
-        "hosts": "\u4e2d\u56fd\u5730\u9707\u5c40/\u963f\u91cc\u4e91",
-        "ddl": "20170927",
-        "solutions": [
-            {
-                "rank": "2",
-                "id": 22
-            }
-        ]
-    },
-    {
-        "name": "\u5929\u6c60\u533b\u7597AI\u5927\u8d5b[\u7b2c\u4e00\u5b63]\uff1a\u80ba\u90e8\u7ed3\u8282\u667a\u80fd\u8bca\u65ad",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231601",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/medAI_1.jpg?raw=true",
-        "hosts": "\u963f\u91cc\u4e91/intel/\u96f6\u6c2a\u79d1\u6280",
-        "ddl": "20170926",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 23
-            },
-            {
-                "rank": "2",
-                "id": 24
-            },
-            {
-                "rank": "3",
-                "id": 25
-            }
-        ]
-    },
-    {
-        "name": "\u5168\u56fd\u793e\u4f1a\u4fdd\u9669\u5927\u6570\u636e\u5e94\u7528\u521b\u65b0\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607",
-        "type": "\u5206\u7c7b/\u5f00\u653e",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/ensure.jpg?raw=true",
-        "hosts": "\u4e2d\u56fd\u793e\u4f1a\u4fdd\u9669\u5b66\u4f1a/\u963f\u91cc\u4e91/\u6570\u68a6\u5de5\u573a",
-        "ddl": "20170918",
-        "solutions": [
-            {
-                "rank": "2",
-                "id": 26
-            },
-            {
-                "rank": "3",
-                "id": 27
-            },
-            {
-                "rank": "4",
-                "id": 28
-            }
-        ]
-    },
-    {
-        "name": "\u667a\u6167\u4ea4\u901a\u9884\u6d4b\u6311\u6218\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guizhou_jiaotong.jpg?raw=true",
-        "hosts": "\u8d35\u5dde\u7701\u5927\u6570\u636e\u53d1\u5c55\u7ba1\u7406\u5c40/\u8d35\u5dde\u7701\u4ea4\u901a\u8fd0\u8f93\u5c40",
-        "ddl": "20170915",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 29
-            },
-            {
-                "rank": "2",
-                "id": 30
-            },
-            {
-                "rank": "3",
-                "id": 31
-            }
-        ]
-    },
-    {
-        "name": "\u667a\u6167\u822a\u7a7aAI\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609",
-        "type": "\u5206\u7c7b/\u4f18\u5316",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/airAI.jpg?raw=true",
-        "hosts": "\u53a6\u95e8\u822a\u7a7a/\u963f\u91cc\u4e91",
-        "ddl": "20170905",
-        "solutions": [
-            {
-                "rank": "2",
-                "id": 32
-            },
-            {
-                "rank": "3",
-                "id": 33
-            }
-        ]
-    },
-    {
-        "name": "\u5927\u822a\u676f\u201c\u667a\u9020\u626c\u4e2d\u201d\u7535\u529bAI\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231602",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/elecAI.jpg?raw=true",
-        "hosts": "\u6c5f\u82cf\u7701\u626c\u4e2d\u5e02\u9ad8\u65b0\u6280\u672f\u4ea7\u4e1a\u5f00\u53d1\u533a/\u5927\u822a\u96c6\u56e2/\u963f\u91cc\u4e91",
-        "ddl": "20170720",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 34
-            },
-            {
-                "rank": "2",
-                "id": 35
-            },
-            {
-                "rank": "3",
-                "id": 36
-            }
-        ]
-    },
-    {
-        "name": "CIKM AnalytiCup 2017",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/CIKM17.jpg?raw=true",
-        "hosts": "\u6df1\u5733\u5e02\u6c14\u8c61\u5c40/\u963f\u91cc\u4e91",
-        "ddl": "20170702",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 37
-            }
-        ]
-    },
-    {
-        "name": "\u963f\u91cc\u805a\u5b89\u5168\u7b97\u6cd5\u6311\u6218\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231592",
         "type": "\u5206\u7c7b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/aliju.jpg?raw=true",
-        "hosts": "\u963f\u91cc\u805a\u5b89\u5168",
-        "ddl": "20170316",
-        "solutions": [
-            {
-                "rank": "37",
-                "id": 38
-            }
-        ]
-    },
-    {
-        "name": "KDD CUP 2017",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231597",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/KDD17.jpg?raw=true",
-        "hosts": "\u963f\u91cc\u4e91/KDD",
-        "ddl": "20170601",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 39
-            },
-            {
-                "rank": "2",
-                "id": 40
-            },
-            {
-                "rank": "3",
-                "id": 41
-            },
-            {
-                "rank": "4",
-                "id": 42
-            }
-        ]
-    },
-    {
-        "name": "IJCAI-17 \u53e3\u7891\u5546\u5bb6\u5ba2\u6d41\u91cf\u9884\u6d4b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/IJCAI17.jpg?raw=true",
-        "hosts": "\u8682\u8681\u91d1\u670d",
-        "ddl": "20170314",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 43
-            },
-            {
-                "rank": "2",
-                "id": 44
-            },
-            {
-                "rank": "3",
-                "id": 45
-            }
-        ]
-    },
-    {
-        "name": " \u751f\u6d3b\u5927\u5b9e\u60e0\uff1aO2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b",
-        "link": "https://tianchi.aliyun.com/competition/rankingList.htm?raceId=231587",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/O2Ocoupon.jpg?raw=true",
-        "hosts": "\u8682\u8681\u91d1\u670d",
-        "ddl": "20161216",
-        "solutions": [
-            {
-                "rank": "1",
-                "id": 46
-            },
-            {
-                "rank": "16",
-                "id": 47
-            }
-        ]
-    },
-    {
-        "name": "\u3010\u5e7f\u4e1c\u5927\u8d5b\u3011\u673a\u573a\u5ba2\u6d41\u91cf\u7684\u65f6\u7a7a\u5206\u5e03\u9884\u6d4b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231588",
-        "type": "\u9884\u6d4b",
-        "platform": "tianchi",
         "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guangdong.jpg?raw=true",
-        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
-        "ddl": "20161128",
+        "platform": "tianchi",
         "solutions": [
             {
-                "rank": "441",
-                "id": 48
+                "id": 19,
+                "rank": "1"
+            },
+            {
+                "id": 20,
+                "rank": "2"
+            },
+            {
+                "id": 21,
+                "rank": "3"
             }
-        ]
+        ],
+        "name": "\u5e7f\u4e1c\u653f\u52a1\u6570\u636e\u521b\u65b0\u5927\u8d5b\u2014\u667a\u80fd\u7b97\u6cd5\u8d5b"
     },
     {
-        "name": "\u65b0\u6d6a\u5fae\u535a\u4e92\u52a8\u9884\u6d4b\u5927\u8d5b",
-        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=5",
-        "type": "\u9884\u6d4b",
+        "hosts": "\u4e2d\u56fd\u5730\u9707\u5c40/\u963f\u91cc\u4e91",
+        "link": "https://tianchi.aliyun.com/competition/information.htm?raceId=231606",
+        "ddl": "20170927",
+        "type": "\u9884\u6d4b/\u5206\u7c7b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/earthquake.jpg?raw=true",
         "platform": "tianchi",
-        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/weibo.jpg?raw=true",
-        "hosts": "\u65b0\u6d6a\u5fae\u535a",
-        "ddl": "20151105",
         "solutions": [
             {
-                "rank": "?",
-                "id": 49
+                "id": 22,
+                "rank": "2"
             }
-        ]
+        ],
+        "name": "\u4f59\u9707\u6355\u6349AI\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u963f\u91cc\u4e91/intel/\u96f6\u6c2a\u79d1\u6280",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231601",
+        "ddl": "20170926",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/medAI_1.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 23,
+                "rank": "1"
+            },
+            {
+                "id": 24,
+                "rank": "2"
+            },
+            {
+                "id": 25,
+                "rank": "3"
+            }
+        ],
+        "name": "\u5929\u6c60\u533b\u7597AI\u5927\u8d5b[\u7b2c\u4e00\u5b63]\uff1a\u80ba\u90e8\u7ed3\u8282\u667a\u80fd\u8bca\u65ad"
+    },
+    {
+        "hosts": "\u4e2d\u56fd\u793e\u4f1a\u4fdd\u9669\u5b66\u4f1a/\u963f\u91cc\u4e91/\u6570\u68a6\u5de5\u573a",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231607",
+        "ddl": "20170918",
+        "type": "\u5206\u7c7b/\u5f00\u653e",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/ensure.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 26,
+                "rank": "2"
+            },
+            {
+                "id": 27,
+                "rank": "3"
+            },
+            {
+                "id": 28,
+                "rank": "4"
+            }
+        ],
+        "name": "\u5168\u56fd\u793e\u4f1a\u4fdd\u9669\u5927\u6570\u636e\u5e94\u7528\u521b\u65b0\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u8d35\u5dde\u7701\u5927\u6570\u636e\u53d1\u5c55\u7ba1\u7406\u5c40/\u8d35\u5dde\u7701\u4ea4\u901a\u8fd0\u8f93\u5c40",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231598",
+        "ddl": "20170915",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guizhou_jiaotong.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 29,
+                "rank": "1"
+            },
+            {
+                "id": 30,
+                "rank": "2"
+            },
+            {
+                "id": 31,
+                "rank": "3"
+            }
+        ],
+        "name": "\u667a\u6167\u4ea4\u901a\u9884\u6d4b\u6311\u6218\u8d5b"
+    },
+    {
+        "hosts": "\u53a6\u95e8\u822a\u7a7a/\u963f\u91cc\u4e91",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231609",
+        "ddl": "20170905",
+        "type": "\u5206\u7c7b/\u4f18\u5316",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/airAI.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 32,
+                "rank": "2"
+            },
+            {
+                "id": 33,
+                "rank": "3"
+            }
+        ],
+        "name": "\u667a\u6167\u822a\u7a7aAI\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u6c5f\u82cf\u7701\u626c\u4e2d\u5e02\u9ad8\u65b0\u6280\u672f\u4ea7\u4e1a\u5f00\u53d1\u533a/\u5927\u822a\u96c6\u56e2/\u963f\u91cc\u4e91",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231602",
+        "ddl": "20170720",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/elecAI.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 34,
+                "rank": "1"
+            },
+            {
+                "id": 35,
+                "rank": "2"
+            },
+            {
+                "id": 36,
+                "rank": "3"
+            }
+        ],
+        "name": "\u5927\u822a\u676f\u201c\u667a\u9020\u626c\u4e2d\u201d\u7535\u529bAI\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u6df1\u5733\u5e02\u6c14\u8c61\u5c40/\u963f\u91cc\u4e91",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596",
+        "ddl": "20170702",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/CIKM17.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 37,
+                "rank": "1"
+            }
+        ],
+        "name": "CIKM AnalytiCup 2017"
+    },
+    {
+        "hosts": "\u963f\u91cc\u805a\u5b89\u5168",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231592",
+        "ddl": "20170316",
+        "type": "\u5206\u7c7b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/aliju.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 38,
+                "rank": "37"
+            }
+        ],
+        "name": "\u963f\u91cc\u805a\u5b89\u5168\u7b97\u6cd5\u6311\u6218\u8d5b"
+    },
+    {
+        "hosts": "\u963f\u91cc\u4e91/KDD",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231597",
+        "ddl": "20170601",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/KDD17.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 39,
+                "rank": "1"
+            },
+            {
+                "id": 40,
+                "rank": "2"
+            },
+            {
+                "id": 41,
+                "rank": "3"
+            },
+            {
+                "id": 42,
+                "rank": "4"
+            }
+        ],
+        "name": "KDD CUP 2017"
+    },
+    {
+        "hosts": "\u8682\u8681\u91d1\u670d",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591",
+        "ddl": "20170314",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/IJCAI17.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 43,
+                "rank": "1"
+            },
+            {
+                "id": 44,
+                "rank": "2"
+            },
+            {
+                "id": 45,
+                "rank": "3"
+            }
+        ],
+        "name": "IJCAI-17 \u53e3\u7891\u5546\u5bb6\u5ba2\u6d41\u91cf\u9884\u6d4b"
+    },
+    {
+        "hosts": "\u8682\u8681\u91d1\u670d",
+        "link": "https://tianchi.aliyun.com/competition/rankingList.htm?raceId=231587",
+        "ddl": "20161216",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/O2Ocoupon.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 46,
+                "rank": "1"
+            },
+            {
+                "id": 47,
+                "rank": "16"
+            }
+        ],
+        "name": " \u751f\u6d3b\u5927\u5b9e\u60e0\uff1aO2O\u4f18\u60e0\u5238\u4f7f\u7528\u9884\u6d4b"
+    },
+    {
+        "hosts": "\u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231588",
+        "ddl": "20161128",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/guangdong.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 48,
+                "rank": "441"
+            }
+        ],
+        "name": "\u3010\u5e7f\u4e1c\u5927\u8d5b\u3011\u673a\u573a\u5ba2\u6d41\u91cf\u7684\u65f6\u7a7a\u5206\u5e03\u9884\u6d4b"
+    },
+    {
+        "hosts": "\u65b0\u6d6a\u5fae\u535a",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=5",
+        "ddl": "20151105",
+        "type": "\u9884\u6d4b",
+        "pic": "https://github.com/geekinglcq/CDCS/blob/master/img/weibo.jpg?raw=true",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 49,
+                "rank": "?"
+            }
+        ],
+        "name": "\u65b0\u6d6a\u5fae\u535a\u4e92\u52a8\u9884\u6d4b\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u963f\u91cc\u5df4\u5df4 \u5e7f\u4e1c\u7701\u4eba\u6c11\u653f\u5e9c",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afYmcuAD&raceId=231682",
+        "ddl": "20181106",
+        "type": "CV\u5206\u7c7b",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 50,
+                "rank": "1"
+            },
+            {
+                "id": 51,
+                "rank": "2"
+            },
+            {
+                "id": 52,
+                "rank": "3"
+            },
+            {
+                "id": 53,
+                "rank": "4"
+            },
+            {
+                "id": 54,
+                "rank": "5"
+            },
+            {
+                "id": 55,
+                "rank": "6"
+            }
+        ],
+        "name": "  2018\u5e7f\u4e1c\u5de5\u4e1a\u667a\u9020\u5927\u6570\u636e\u521b\u65b0\u5927\u8d5b\u2014\u2014\u667a\u80fd\u7b97\u6cd5\u8d5b \u94dd\u578b\u6750\u8868\u9762\u7455\u75b5\u8bc6\u522b"
+    },
+    {
+        "hosts": "\u4e4b\u6c5f\u5b9e\u9a8c\u5ba4\u3001\u6d59\u6c5f\u7701\u4eba\u5de5\u667a\u80fd\u53d1\u5c55\u4e13\u5bb6\u59d4\u5458\u4f1a\uff08AI TOP 30\uff09\u3001\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u4ea7\u4e1a\u53d1\u5c55\u8054\u76df\uff08AIIA\uff09",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afYmcuAD&raceId=231677",
+        "ddl": "20181030",
+        "type": "CV \u76ee\u6807\u68c0\u6d4b",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 56,
+                "rank": "baseline"
+            }
+        ],
+        "name": "2018\u4e4b\u6c5f\u676f\u5168\u7403\u4eba\u5de5\u667a\u80fd\u5927\u8d5b"
+    },
+    {
+        "hosts": "\u4e4b\u6c5f\u5b9e\u9a8c\u5ba4\u3001\u6d59\u6c5f\u7701\u4eba\u5de5\u667a\u80fd\u53d1\u5c55\u4e13\u5bb6\u59d4\u5458\u4f1a\uff08AI TOP 30\uff09\u3001\u4e2d\u56fd\u4eba\u5de5\u667a\u80fd\u4ea7\u4e1a\u53d1\u5c55\u8054\u76df\uff08AIIA\uff09",
+        "link": "https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afYmcuAD&raceId=231676",
+        "ddl": "20181030",
+        "type": "\u89c6\u9891\u8bc6\u522b \u95ee\u7b54",
+        "platform": "tianchi",
+        "solutions": [
+            {
+                "id": 57,
+                "rank": "?"
+            }
+        ],
+        "name": "2018\u4e4b\u6c5f\u676f\u5168\u7403\u4eba\u5de5\u667a\u80fd\u5927\u8d5b\u2028\uff1a\u89c6\u9891\u8bc6\u522b&\u95ee\u7b54"
     }
 ]

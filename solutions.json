@@ -11,6 +11,14 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231598&postsId=2710"
     },
+    "64": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.55b3311fsLMq7y&raceId=231669&postsId=25742"
+    },
+    "68": {
+        "code": "https://github.com/im2608/tianchi_dispatch/tree/dispatch_semifinal?spm=5176.9876270.0.0.7d04e44a0wi1rt",
+        "algorithm": ""
+    },
     "10": {
         "code": "https://pan.baidu.com/s/1gfJ9XmF",
         "algorithm": "https://pan.baidu.com/s/1gfJ9XmF"
@@ -22,6 +30,14 @@
     "32": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231609&postsId=3045"
+    },
+    "57": {
+        "code": "https://github.com/Sunnyhoster/TianChi",
+        "algorithm": ""
+    },
+    "73": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=11219"
     },
     "15": {
         "code": "https://github.com/wepe/O2O-Coupon-Usage-Forecast",
@@ -43,6 +59,18 @@
         "code": "",
         "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.62b7311frbYAH8&raceId=231682&postsId=38298"
     },
+    "61": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.76d4311fJGFK1k&raceId=231662&postsId=38098"
+    },
+    "59": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.76d4311fd2Tjg2&raceId=231662&postsId=38136"
+    },
+    "65": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.55b3311fsLMq7y&raceId=231669&postsId=26354"
+    },
     "5": {
         "code": "null",
         "algorithm": "https://pan.baidu.com/s/1eS3vfNW"
@@ -50,6 +78,10 @@
     "18": {
         "code": "https://github.com/xing89qs/TianChi_CaiNiao_Season2",
         "algorithm": "https://github.com/xing89qs/TianChi_CaiNiao_Season2"
+    },
+    "66": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.55b3311fsLMq7y&raceId=231669&postsId=26314"
     },
     "13": {
         "code": "https://github.com/liyumeng/SmpCup2016",
@@ -67,9 +99,9 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231591&postsId=2454"
     },
-    "43": {
-        "code": "https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323",
-        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.47c91418CdEkE1&raceId=231591&postsId=2409"
+    "35": {
+        "code": "null",
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231602&postsId=2079"
     },
     "48": {
         "code": "https://github.com/liangyaorong/2016TianChi_AirportWifiPredict",
@@ -83,9 +115,9 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4abb601fEPaHKP&raceId=231601&postsId=2966"
     },
-    "57": {
-        "code": "https://github.com/Sunnyhoster/TianChi",
-        "algorithm": ""
+    "62": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.76d4311fJGFK1k&raceId=231662&postsId=38003"
     },
     "51": {
         "code": "",
@@ -95,37 +127,53 @@
         "code": "null",
         "algorithm": "https://pan.baidu.com/s/1nuQ7oiX"
     },
-    "38": {
-        "code": "https://github.com/destinyJLU/alibaba_safe_code",
-        "algorithm": "https://github.com/destinyJLU/alibaba_safe_code"
+    "67": {
+        "code": "https://github.com/maozezhong/TIANCHI_XUELANG_AI_2?spm=5176.9876270.0.0.4ed3e44alCnhcx",
+        "algorithm": "https://github.com/maozezhong/TIANCHI_XUELANG_AI_2?spm=5176.9876270.0.0.4ed3e44alCnhcx"
     },
-    "46": {
-        "code": "https://github.com/wepe/O2O-Coupon-Usage-Forecast",
-        "algorithm": "https://github.com/wepe/O2O-Coupon-Usage-Forecast"
+    "25": {
+        "code": "null",
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4abb601fEPaHKP&raceId=231601&postsId=2893"
+    },
+    "8": {
+        "code": "https://github.com/LuJunru/SMPCUP2017_ELP",
+        "algorithm": "null"
     },
     "22": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231606&postsId=3101"
     },
-    "35": {
-        "code": "null",
-        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231602&postsId=2079"
+    "71": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12714"
     },
     "20": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231615&postsId=3490"
     },
-    "14": {
-        "code": "https://github.com/scaufengyang/smpcup2016",
-        "algorithm": "https://github.com/scaufengyang/smpcup2016"
+    "2": {
+        "code": "https://github.com/geekinglcq/aca",
+        "algorithm": "https://pan.baidu.com/s/1pLLZ9xD"
+    },
+    "69": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12435"
     },
     "3": {
         "code": "null",
         "algorithm": "https://pan.baidu.com/s/1bpfKIkv"
     },
+    "72": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12040"
+    },
     "55": {
         "code": "",
         "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.62b7311frbYAH8&raceId=231682&postsId=38560"
+    },
+    "14": {
+        "code": "https://github.com/scaufengyang/smpcup2016",
+        "algorithm": "https://github.com/scaufengyang/smpcup2016"
     },
     "11": {
         "code": "https://pan.baidu.com/s/1gfJ9XmF",
@@ -135,9 +183,17 @@
         "code": "",
         "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.62b7311frbYAH8&raceId=231682&postsId=38497"
     },
-    "2": {
-        "code": "https://github.com/geekinglcq/aca",
-        "algorithm": "https://pan.baidu.com/s/1pLLZ9xD"
+    "75": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=11404"
+    },
+    "52": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.62b7311frbYAH8&raceId=231682&postsId=38548"
+    },
+    "37": {
+        "code": "null",
+        "algorithm": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596"
     },
     "29": {
         "code": "null",
@@ -146,6 +202,10 @@
     "17": {
         "code": "https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning",
         "algorithm": "https://github.com/wepe/CaiNiao-DemandForecast-StoragePlaning"
+    },
+    "63": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.55b3311fsLMq7y&raceId=231669&postsId=26088"
     },
     "39": {
         "code": "null",
@@ -159,6 +219,10 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231607&postsId=3026"
     },
+    "74": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=12534"
+    },
     "23": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4abb601fEPaHKP&raceId=231601&postsId=2947"
@@ -167,17 +231,25 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231597&postsId=2445"
     },
-    "49": {
-        "code": "https://github.com/deeptimhe/tianchi-weibo-pred",
-        "algorithm": "https://zhuanlan.zhihu.com/p/23845169"
-    },
-    "47": {
-        "code": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage",
-        "algorithm": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage"
+    "46": {
+        "code": "https://github.com/wepe/O2O-Coupon-Usage-Forecast",
+        "algorithm": "https://github.com/wepe/O2O-Coupon-Usage-Forecast"
     },
     "19": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231615&postsId=3483"
+    },
+    "43": {
+        "code": "https://gitlab.tianchi.aliyun.com/race231591/gitlab-u2323",
+        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.47c91418CdEkE1&raceId=231591&postsId=2409"
+    },
+    "58": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.76d4311fd2Tjg2&raceId=231662&postsId=38113"
+    },
+    "47": {
+        "code": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage",
+        "algorithm": "https://github.com/InsaneLife/O2O-Predict-Coupon-Usage"
     },
     "34": {
         "code": "null",
@@ -187,6 +259,10 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231591&postsId=2453"
     },
+    "70": {
+        "code": "",
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12505"
+    },
     "41": {
         "code": "https://github.com/12190143/Black-Swan",
         "algorithm": "https://github.com/12190143/Black-Swan"
@@ -195,13 +271,9 @@
         "code": "https://github.com/wangqingbaidu/aliMusic",
         "algorithm": "http://www.wangqingbaidu.cn/article/alimusic1471161131.html"
     },
-    "25": {
-        "code": "null",
-        "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?spm=5176.8366600.0.0.4abb601fEPaHKP&raceId=231601&postsId=2893"
-    },
-    "52": {
+    "60": {
         "code": "",
-        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.62b7311frbYAH8&raceId=231682&postsId=38548"
+        "algorithm": "https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.76d4311fJGFK1k&raceId=231662&postsId=38065"
     },
     "9": {
         "code": "https://pan.baidu.com/s/1gfJ9XmF",
@@ -211,16 +283,16 @@
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231602&postsId=2128"
     },
+    "38": {
+        "code": "https://github.com/destinyJLU/alibaba_safe_code",
+        "algorithm": "https://github.com/destinyJLU/alibaba_safe_code"
+    },
+    "49": {
+        "code": "https://github.com/deeptimhe/tianchi-weibo-pred",
+        "algorithm": "https://zhuanlan.zhihu.com/p/23845169"
+    },
     "27": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231607&postsId=2981"
-    },
-    "8": {
-        "code": "https://github.com/LuJunru/SMPCUP2017_ELP",
-        "algorithm": "null"
-    },
-    "37": {
-        "code": "null",
-        "algorithm": "https://tianchi.aliyun.com/competition/introduction.htm?raceId=231596"
     }
 }

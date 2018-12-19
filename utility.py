@@ -65,9 +65,9 @@ def renderToMK():
         for solution in com['solutions']:
             st = "第%s名 " % (solution['rank'])
             so = solutions[str(solution['id'])]
-            if so['algorithm'] != "null":
+            if so['algorithm'] != "null" and so['algorithm'] != "":
                 st = "%s [算法](%s)" % (st, so['algorithm'])
-            if so['code'] != "null":
+            if so['code'] != "null" and so['code'] != "":
                 st = "%s [代码](%s)" % (st, so['code'])
             soStrings.append(st)
         f.write('<br>'.join(soStrings))

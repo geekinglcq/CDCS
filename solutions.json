@@ -294,5 +294,17 @@
     "27": {
         "code": "null",
         "algorithm": "https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231607&postsId=2981"
+    },
+    "76": {
+        "algorithm": "https://tianchi.aliyun.com/forum/videoStream.html#postsId=10397",
+        "code": ""
+    },
+    "77": {
+        "algorithm": "",
+        "code": "https://github.com/jianfeng123/financial-competition"
+    },
+    "78": {
+        "algorithm": "https://github.com/hyifan/FDDC",
+        "code": "https://github.com/hyifan/FDDC"
     }
 }

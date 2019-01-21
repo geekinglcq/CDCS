@@ -57,7 +57,7 @@ def renderToMK():
         f.write(line)
     f.write("||名称|类型|截止日期|解决方案|平台|主办方|  \n")
     f.write("|--|--|--|--|--|--|--|  \n")
-    for com in coms:
+    for com in sorted(coms, key=lambda x: x['ddl'], reverse=True):
         f.write("|[%s](%s)|%s|%s|"%( \
               com['name'], com['link'], com['type'], com['ddl']))
         soStrings = []

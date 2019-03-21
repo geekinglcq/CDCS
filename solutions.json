@@ -306,5 +306,69 @@
     "78": {
         "algorithm": "https://github.com/hyifan/FDDC",
         "code": "https://github.com/hyifan/FDDC"
+    },
+    "79": {
+        "algorithm": "https://github.com/iwangjian/ByteCup2018",
+        "code": "https://github.com/iwangjian/ByteCup2018"
+    },
+    "80": {
+        "algorithm": "",
+        "code": "https://github.com/taoyafan/abstractive_summarization"
+    },
+    "81": {
+        "algorithm": "https://github.com/geekinglcq/opendac2018",
+        "code": "https://github.com/geekinglcq/opendac2018"
+    },
+    "82": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.9.651d4cd6uJjKS3&postId=50285",
+        "code": ""
+    },
+    "83": {
+        "algorithm": "https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.651d4cd6uJjKS3&postId=50184",
+        "code": ""
+    },
+    "84": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.18.651d4cd6uJjKS3&postId=49578",
+        "code": "https://github.com/fanfanda/OGeek-Competition"
+    },
+    "85": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.15.651d4cd6uJjKS3&postId=50016",
+        "code": ""
+    },
+    "86": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.651d4cd6uJjKS3&postId=49880",
+        "code": ""
+    },
+    "87": {
+        "algorithm": "https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.651d4cd6uJjKS3&postId=50456",
+        "code": ""
+    },
+    "88": {
+        "algorithm": "https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.12.f21e4487aoZEga&postId=48822",
+        "code": ""
+    },
+    "89": {
+        "algorithm": "https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.9.f21e4487aoZEga&postId=48133",
+        "code": "https://github.com/qrfaction/ruijin-kg-SuperGUTScode"
+    },
+    "90": {
+        "algorithm": "https://tianchi.aliyun.com/forum/postDetail?spm=5176.12586969.1002.3.f21e4487aoZEga&postId=48593",
+        "code": "https://github.com/megemini/-_megemini-"
+    },
+    "91": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.6.f21e4487aoZEga&postId=48833",
+        "code": ""
+    },
+    "92": {
+        "algorithm": "https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587ffcBbKm9R&postId=41822",
+        "code": ""
+    },
+    "93": {
+        "algorithm": "",
+        "code": "https://github.com/JonneryR/2019.1-TianChi-Jinnan"
+    },
+    "94": {
+        "algorithm": "https://github.com/taoyafan/jinnan",
+        "code": "https://github.com/taoyafan/jinnan"
     }
 }

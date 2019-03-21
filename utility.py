@@ -18,7 +18,7 @@ def addSolutionInfo(id):
     s = {"algorithm": algo, "code": code}
     solutions[id] = s
     with codecs.open("solutions.json", 'w', encoding='utf-8') as f:
-        json.dump(solutions, f, indent=4)
+        json.dump(solutions, f, indent=4, ensure_ascii=False)
 
 
 def addCompe():
@@ -45,7 +45,7 @@ def addCompe():
     newCom["solutions"] = solution
     coms.append(newCom)
     with codecs.open("competitions.json", "w", encoding='utf-8') as f:
-        json.dump(coms, f, indent=4)
+        json.dump(coms, f, indent=4, ensure_ascii=False)
 
 
 def renderToMK():

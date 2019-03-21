@@ -55,7 +55,7 @@ def renderToMK():
     solutions = json.load(codecs.open('solutions.json'))
     for line in data:
         f.write(line)
-    f.write("||名称|类型|截止日期|解决方案|平台|主办方|  \n")
+    f.write("|名称|类型|截止日期|解决方案|平台|主办方|  \n")
     f.write("|--|--|--|--|--|--|--|  \n")
     for com in sorted(coms, key=lambda x: x['ddl'], reverse=True):
         f.write("|[%s](%s)|%s|%s|"%( \

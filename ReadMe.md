@@ -6,7 +6,7 @@ Chinese Data Competitions Solutions
 *搬运仅供学习使用，代码/算法的所有权归原作者使用，如有发现侵犯到您的权益，请联系我处理。*  
 
 
-||名称|类型|截止日期|解决方案|平台|主办方|  
+|名称|类型|截止日期|解决方案|平台|主办方|  
 |--|--|--|--|--|--|--|  
 |[津南数字制造算法挑战赛——赛场一：原料企业工艺优化](https://tianchi.aliyun.com/competition/entrance/231695/introduction?spm=5176.12281957.1004.16.38b076d8d9Bkba)|预测、医药化学|20190221|第？名  [算法](https://tianchi.aliyun.com/notebook-ai/detail?spm=5176.12586969.1002.3.54587ffcBbKm9R&postId=41822)<br>第6名  [代码](https://github.com/JonneryR/2019.1-TianChi-Jinnan)<br>第17名  [算法](https://github.com/taoyafan/jinnan) [代码](https://github.com/taoyafan/jinnan)|tianchi|津南区政府 阿里云|  
 |[Byte Cup 2018 国际机器学习竞赛](https://biendata.com/forum/index_category/33)|文本生成/摘要/NLP|20181206|第6名  [算法](https://github.com/iwangjian/ByteCup2018) [代码](https://github.com/iwangjian/ByteCup2018)<br>第23名  [代码](https://github.com/taoyafan/abstractive_summarization)|biendata|字节跳动|  

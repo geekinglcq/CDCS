@@ -763,5 +763,77 @@
                 "id": 94
             }
         ]
+    },
+    {
+        "name": "2018云从人头计数",
+        "link": "https://www.biendata.com/competition/cloudcup2018/",
+        "type": "CV",
+        "platform": "biendata",
+        "hosts": "云从科技",
+        "ddl": "20190129",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 95
+            }
+        ]
+    },
+    {
+        "name": "2018年甜橙金融杯大数据建模大赛",
+        "link": "http://www.dcjingsai.com/common/cmpt/2018%E5%B9%B4%E7%94%9C%E6%A9%99%E9%87%91%E8%9E%8D%E6%9D%AF%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%BB%BA%E6%A8%A1%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html",
+        "type": "分类、金融",
+        "platform": "DC",
+        "hosts": "甜橙金融",
+        "ddl": "20181228",
+        "solutions": [
+            {
+                "rank": "6",
+                "id": 96
+            },
+            {
+                "rank": "9",
+                "id": 97
+            }
+        ]
+    },
+    {
+        "name": "国能日新光伏功率预测大赛",
+        "link": "http://www.dcjingsai.com/common/cmpt/%E5%9B%BD%E8%83%BD%E6%97%A5%E6%96%B0%E5%85%89%E4%BC%8F%E5%8A%9F%E7%8E%87%E9%A2%84%E6%B5%8B%E5%A4%A7%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html",
+        "type": "预测",
+        "platform": "DC",
+        "hosts": "国能日新",
+        "ddl": "20181203",
+        "solutions": [
+            {
+                "rank": "21",
+                "id": 98
+            },
+            {
+                "rank": "?",
+                "id": 99
+            }
+        ]
+    },
+    {
+        "name": "第3届 融360天机智能金融算法挑战赛",
+        "link": "http://www.dcjingsai.com/common/cmpt/%E7%AC%AC3%E5%B1%8A%20%E8%9E%8D360%E5%A4%A9%E6%9C%BA%E6%99%BA%E8%83%BD%E9%87%91%E8%9E%8D%E7%AE%97%E6%B3%95%E6%8C%91%E6%88%98%E8%B5%9B_%E7%AB%9E%E8%B5%9B%E4%BF%A1%E6%81%AF.html",
+        "type": "金融",
+        "platform": "DC",
+        "hosts": "融360",
+        "ddl": "20181110",
+        "solutions": [
+            {
+                "rank": "6",
+                "id": 100
+            },
+            {
+                "rank": "5",
+                "id": 101
+            },
+            {
+                "rank": "?",
+                "id": 102
+            }
+        ]
     }
 ]

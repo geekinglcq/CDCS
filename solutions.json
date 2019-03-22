@@ -370,5 +370,37 @@
     "94": {
         "algorithm": "https://github.com/taoyafan/jinnan",
         "code": "https://github.com/taoyafan/jinnan"
+    },
+    "95": {
+        "algorithm": "https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector",
+        "code": "https://github.com/ywcmaike/2018--ZJUAI--PyramidBoxDetector"
+    },
+    "96": {
+        "algorithm": "",
+        "code": "https://github.com/BirderEric/Tiancheng"
+    },
+    "97": {
+        "algorithm": "https://github.com/PandasCute/2018-ORANGE-FINANCIAL-BIG-DATA-top9",
+        "code": "https://github.com/PandasCute/2018-ORANGE-FINANCIAL-BIG-DATA-top9"
+    },
+    "98": {
+        "algorithm": "https://github.com/yyhhlancelot/DC_power_prediction_top21",
+        "code": "https://github.com/yyhhlancelot/DC_power_prediction_top21"
+    },
+    "99": {
+        "algorithm": "",
+        "code": "https://github.com/Questions1/Calculate_solar_angle"
+    },
+    "100": {
+        "algorithm": "https://github.com/Questions1/Rong360_2nd",
+        "code": "https://github.com/Questions1/Rong360_2nd"
+    },
+    "101": {
+        "algorithm": "",
+        "code": "https://github.com/juzstu/2018_rong360_task2"
+    },
+    "102": {
+        "algorithm": "",
+        "code": "https://github.com/ultimatejoe/rong_360_1"
     }
 }

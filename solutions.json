@@ -402,5 +402,13 @@
     "102": {
         "algorithm": "",
         "code": "https://github.com/ultimatejoe/rong_360_1"
+    },
+    "103": {
+        "algorithm": "",
+        "code": "https://github.com/cklient/iflytek"
+    },
+    "104": {
+        "algorithm": "https://github.com/YunaQiu/kedaxunfei2018",
+        "code": "https://github.com/YunaQiu/kedaxunfei2018"
     }
 }

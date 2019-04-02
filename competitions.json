@@ -853,5 +853,23 @@
                 "id": 104
             }
         ]
+    },
+    {
+        "name": "面向电信行业存量用户的智能套餐个性化匹配模型",
+        "link": "https://www.datafountain.cn/competitions/311/details",
+        "type": "分类预测",
+        "platform": "DataFountain",
+        "hosts": "CCF,中国联通",
+        "ddl": "20181117",
+        "solutions": [
+            {
+                "rank": "2",
+                "id": 105
+            },
+            {
+                "rank": "6",
+                "id": 106
+            }
+        ]
     }
 ]

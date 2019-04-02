@@ -51,8 +51,8 @@ def addCompe():
 def renderToMK():
     data = codecs.open("header.md", 'r', 'utf-8').readlines()
     f = codecs.open("ReadMe.md", 'w', 'utf-8')
-    coms = json.load(codecs.open('competitions.json'))
-    solutions = json.load(codecs.open('solutions.json'))
+    coms = json.load(codecs.open('competitions.json', encoding='utf-8'))
+    solutions = json.load(codecs.open('solutions.json', encoding='utf-8'))
     for line in data:
         f.write(line)
     f.write("|名称|类型|截止日期|解决方案|平台|主办方|  \n")

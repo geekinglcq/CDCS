@@ -871,5 +871,19 @@
                 "id": 106
             }
         ]
+    },
+    {
+        "name": "2018 搜狐内容识别算法大赛",
+        "link": "https://biendata.com/competition/sohu2018/",
+        "type": "分类",
+        "platform": "biendata",
+        "hosts": "搜狐、CCF",
+        "ddl": "20180319",
+        "solutions": [
+            {
+                "rank": "1",
+                "id": 107
+            }
+        ]
     }
 ]

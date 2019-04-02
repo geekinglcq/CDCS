@@ -418,5 +418,9 @@
     "106": {
         "algorithm": "https://huangqinjian.blog.csdn.net/article/details/88827501",
         "code": "https://github.com/ZengHaihong/2018_CCF_BDCI_ChinaUnicom_Package_Match_Rank6"
+    },
+    "107": {
+        "algorithm": "https://github.com/zhanzecheng/SOHU_competition",
+        "code": "https://github.com/zhanzecheng/SOHU_competition"
     }
 }

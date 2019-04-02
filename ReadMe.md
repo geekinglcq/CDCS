@@ -2,7 +2,15 @@
 Chinese Data Competitions Solutions  
 
 做这个搜集主要只因为自己之前在做比赛时受到[Kaggle Past Solution](http://ndres.me/kaggle-past-solutions/)的很多帮助，同时发现虽然很多国内竞赛的获奖团队会热心地公开自己的算法甚至是源码，但是往往较为分散，因此萌生了搜集国内数据竞赛优胜团队解法的念头。  
-希望能对需要的同学有所帮助，同时，如果有发现没有被收录进去的解决方案，欢迎发起`pull request`。  
+希望能对需要的同学有所帮助，同时，如果有发现没有被收录进去的解决方案，欢迎发起`pull request`，请在本`repo`下执行以下代码后提交`pull request`，不要直接修改`ReadMe.md`:   
+
+```py
+import utility
+utility.addCompe()  # 新增竞赛  
+# 接着按提示输入信息  
+utility.renderToMK() # 修改markdown文件的显示
+```  
+
 *搬运仅供学习使用，代码/算法的所有权归原作者使用，如有发现侵犯到您的权益，请联系我处理。可以直接在Github提Issue，[发邮件](mailto:lcqgeek@live.com)或者[知乎私信我](https://www.zhihu.com/people/geeking-lcq)*  
 
 
@@ -28,6 +36,7 @@ Chinese Data Competitions Solutions
 |[阿里巴巴全球调度算法大赛](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afP6RraT&raceId=231663)|调度 优化|20180907|第18名  [代码](https://github.com/im2608/tianchi_dispatch/tree/dispatch_semifinal?spm=5176.9876270.0.0.7d04e44a0wi1rt)|tianchi|阿里巴巴|  
 |[FDDC2018金融算法挑战赛01－A股上市公司季度营收预测](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afP6RraT&raceId=231660)|预测|20180824|第1名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12435)<br>第2名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12505)<br>第3名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12714)<br>第4名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.370d311fQ3K78Z&raceId=231660&postsId=12040)<br>第答辩视频名  [算法](https://tianchi.aliyun.com/forum/videoStream.html#postsId=10397)<br>第30名  [代码](https://github.com/jianfeng123/financial-competition)<br>第?名  [算法](https://github.com/hyifan/FDDC) [代码](https://github.com/hyifan/FDDC)|tianchi|中国证券投资基金业协会、华夏基金、易方达、通联数据、阿里云|  
 |[FDDC2018金融算法挑战赛02－A股上市公司公告信息抽取](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afP6RraT&raceId=231659)|NLP 信息抽取|20180824|第1名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=11219)<br>第3名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=12534)<br>第4名  [算法](https://tianchi.aliyun.com/forum/new_articleDetail.html?spm=5176.8366600.0.0.b067311fi1crEX&raceId=231659&postsId=11404)|tianchi|中国证券投资基金业协会、华夏基金、易方达、通联数据、阿里云|  
+|[2018 搜狐内容识别算法大赛](https://biendata.com/competition/sohu2018/)|分类|20180319|第1名  [算法](https://github.com/zhanzecheng/SOHU_competition) [代码](https://github.com/zhanzecheng/SOHU_competition)|biendata|搜狐、CCF|  
 |[广东政务数据创新大赛—智能算法赛](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231615&_lang=en_US)|分类|20171121|第1名  [算法](https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231615&postsId=3483)<br>第2名  [算法](https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231615&postsId=3490)<br>第3名  [算法](https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231615&postsId=3480)|tianchi|广东省人民政府|  
 |[2017 开放学术精准画像大赛](https://biendata.com/competition/scholar/winners/)|画像/分类/预测|20171009|第1名  [算法](https://pan.baidu.com/s/1eRT3rKQ)<br>第2名  [算法](https://pan.baidu.com/s/1pLLZ9xD) [代码](https://github.com/geekinglcq/aca)<br>第3名  [算法](https://pan.baidu.com/s/1bpfKIkv)|biendata|微软/清华大学/中国工程院|  
 |[余震捕捉AI大赛](https://tianchi.aliyun.com/competition/information.htm?raceId=231606)|预测/分类|20170927|第2名  [算法](https://tianchi.aliyun.com/competition/new_articleDetail.html?raceId=231606&postsId=3101)|tianchi|中国地震局/阿里云|  
